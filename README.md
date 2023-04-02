@@ -1,7 +1,3 @@
-# A data science project portfolio should showcase your skills and experience in various data science techniques and technologies. Here are some possible requirements to include in your portfolio:
-
-
-
 Data Cleaning and Pre-Processing: Include at least one project that demonstrates your ability to clean and pre-process data. This could involve removing duplicates, handling missing values, or transforming data into a different format.
 
 
